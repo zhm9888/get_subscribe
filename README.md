@@ -24,6 +24,11 @@
 - 📱 [Android](https://www.ermao.net/article/eh8f4n86/)
 - 🖥 [Windows](https://www.ermao.net/uncategorized/clash-for-windows/)
 
+## ✈ telegram 频道与群组
+
+- [telegram 频道](https://t.me/emzvpn)
+- [telegram 群组](https://t.me/emzvpng)
+
 ## 💸 付费订阅
 
 我搜罗的一些比较便宜的机场（月消费10块以下），觉得免费订阅不好使的朋友们可以在这里面找找。
